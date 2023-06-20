@@ -1,0 +1,47 @@
+/* General styles */
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+.container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+h1, h3 {
+  color: ;
+}
+
+/* Form styles */
+.form-control {
+  background-color: #fff;
+  color: #000;
+  border: none;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.form-label {
+  color: #000;
+}
+
+.btn-primary {
+  background-color: #000;
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #333;
+}
+
+/* Item styles */
+.text-center {
+  color: #000;
+}
+

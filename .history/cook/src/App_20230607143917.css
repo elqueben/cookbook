@@ -1,0 +1,21 @@
+img {
+    width: 150px;
+    height: 250px;
+  }
+
+.item-container {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+  }
+  
+  .item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .item img {
+    width: 150px;
+    height: 250px;
+  }
+  
